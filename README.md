@@ -30,3 +30,6 @@ docker-compose up
 "
 
 Remember to change the .env file or to change the example.com in nginx-conf/nginx.conf file into your own domain name.
+
+Thanks to:
+https://docs.nginx.com/nginx/admin-guide/security-controls/configuring-http-basic-authentication/
