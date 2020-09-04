@@ -2,7 +2,7 @@
 Nginx server protected by HTTP Basic Authentification, -> with Docker Compose
 
 If you want it to work right away you will need to clone this directory:
-/n
+
 "
 git clone "https://github.com/grvn-ht/docker-Nginx-HTTP-Basic-Authentication.git" .
 "
